@@ -1,6 +1,6 @@
 ---
 title: wafinator
-layout: template
+layout: jekyll-theme-hacker
 filename: index.md
 ---
 
