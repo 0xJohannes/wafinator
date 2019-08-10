@@ -3,3 +3,4 @@ Collection of payloads from everywhere. The maintainer is glad to *sec community
 [sqli](sqli.md)<br>
 [attributes](attributes.md)<br>
 [xss](xss.md)<br>
+[ssti](ssti.md)<br>
